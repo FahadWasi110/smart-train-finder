@@ -9,7 +9,7 @@ This web app helps users plan one-way or roundtrips based on departure dates, nu
 
 - 🔁 One-way and roundtrip support
 - 📆 Date selection for departure and return
-- 🛏️ Enter number of nights to calculate return date automatically
+- 🛏️ Enter number of nights to calculate return date automatically (for simplicity purpose)
 - 🧮 Filter results by:
   - Cheapest
   - Fastest
